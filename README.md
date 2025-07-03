@@ -4,6 +4,16 @@
 
 ---
 
+## 🎧 Built with Vibe Coding
+
+This entire project was created through **vibe coding** —  
+> flowing with creativity, intuition, and momentum rather than strict rules.
+
+It's not about perfect code. It's about building something that solves a real micro problem:  
+**procrastination in learning web development**.
+
+---
+
 ## 🚀 Features
 
 - 🎯 **One small coding challenge per day** (HTML/CSS/JS focused)
