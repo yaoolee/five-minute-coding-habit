@@ -16,8 +16,8 @@
 ---
 
 ## 🖼️ Preview
-
-![Screenshot](link-to-screenshot-if-any)
+[Live](https://yaoolee.github.io/five-minute-coding-habit/)
+![Screenshot](/screenshot/screenshot.png)
 
 ---
 
