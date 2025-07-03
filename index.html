@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="./styles.css">
+  <title>Daily 5-Minute Coding</title>
+</head>
+<body>
+  <div id="top-bar">
+    <div>
+      <h2>🧠 Today's Challenge:</h2>
+      <p id="daily-challenge"></p>
+    </div>
+    <div id="timer">⏱ 05:00</div>
+    <button id="start-timer-btn">▶️ Start 5-Minute Timer</button>
+    <div id="streak">🔥 0-Day Streak</div>
+  </div>
+
+  <div id="main">
+    <div id="editor">
+      <h3>HTML</h3>
+      <textarea id="html-code"></textarea>
+
+      <h3>CSS</h3>
+      <textarea id="css-code"></textarea>
+
+      <h3>JavaScript</h3>
+      <textarea id="js-code"></textarea>
+
+      <button id="run-btn">Run Code</button>
+    </div>
+
+    <div id="preview">
+      <iframe id="live-preview"></iframe>
+    </div>
+  </div>
+<script src="./script.js"></script>
+</body>
+</html>
